@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amalkp354
-- 👀 I’m interested in ...
-- 🌱 I’m currently a Btech Student at Yit maq
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mobile App Devolopment
+- 🌱 I’m currently a Btech Student at YIT MAQ
+- 💞️ I’m looking to collaborate on Covid Tracker Map Website
+
 
 <!---
 amalkp354/amalkp354 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
