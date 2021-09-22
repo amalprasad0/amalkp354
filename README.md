@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amalkp354
 - 👀 I’m interested in Mobile App Devolopment
 - 🌱 I’m currently a Btech Student at YIT MAQ
-- 💞️ I’m looking to collaborate on Covid Tracker Map Website
+- 💞️  I developed Covid Tracker Map Website
 
 
 <!---
